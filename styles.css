@@ -1,0 +1,42 @@
+#wrapper
+{
+    width: 80%;
+    margin: auto;
+    background-color: rgb(255, 230, 193);
+    border: 2px solid gray;
+    padding: 20px;
+}
+
+.active
+{
+    border: 1px solid black;
+    border-top-right-radius: 4px;
+    border-top-left-radius: 4px;
+}
+
+#logo
+{
+    width: 50%;
+    
+}
+
+body
+{
+    background-color: grey;
+    font-size: 18px;
+}
+
+.nav-link
+{
+    color: green;;
+}
+.nav-link:hover
+{
+    color: white;
+    background-color: green;
+}
+
+#navbar-expend-sm
+{
+    color: rgb(134, 184, 235);
+}
